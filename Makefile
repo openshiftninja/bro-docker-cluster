@@ -2,7 +2,7 @@ include Makefile.inc
 
 BRO_IMAGE       = bro_image
 BUILD_BRO       = bro
-CLUSTER_IMAGES  = cluster_bro_images
+CLUSTER_IMAGES  = cluster_images
 BUILD_CLUSTER   = cluster
 RUN_MGR         = run_mgr
 RUN_NODE        = run_node
